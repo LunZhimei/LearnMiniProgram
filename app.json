@@ -2,29 +2,5 @@
   "pages": [
     "pages/home/home",
     "pages/about/about"
-  ],
-  "window": {
-    "navigationBarBackgroundColor": "#1296db",
-    "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "车联网小程序",
-    "backgroundColor": "green",
-    "enablePullDownRefresh": false
-  },
-  "tabBar": {
-    "selectedColor":"#1296db",
-    "list": [
-      {
-        "pagePath": "pages/home/home",
-        "text": "home",
-        "iconPath": "assets/tabbar/home.png",
-        "selectedIconPath": "assets/tabbar/home_active.png"
-      },
-      {
-        "pagePath": "pages/about/about",
-        "text": "about",
-        "iconPath": "assets/tabbar/about.png",
-        "selectedIconPath": "assets/tabbar/about_active.png"
-      }
-    ] 
-  }
+  ]
 }
